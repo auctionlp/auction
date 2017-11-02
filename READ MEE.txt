@@ -3,7 +3,7 @@
 https://github.com/
 
 логин art.leoplanet@gmail.com
-пароль leoplannet1
+пароль leoplannet
 
 ----- назва для комітів (git commit -m "auction0,1,2,3,...+ імя виконавця")
 git commit -m "auction0Іван
